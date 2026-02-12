@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "email": "gaon202512@gmail.com",
+      "role": "starter"
+    },
+    {
+      "email": "kagajjan@gmail.com",
+      "role": "master"
+    }
+  ]
+}
